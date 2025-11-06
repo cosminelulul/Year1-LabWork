@@ -12,7 +12,7 @@ The goal of this repo is to demonstrate my progress in programming fundamentals,
 ## Semester II:
 
 -  Contains C++ assignments of medium complexity that are built on OOP Principles.
--  Topics covered: organizing data into strucutres, it's encapsulation, relations, inheritance and aggregation.
+-  Topics covered: organizing data into classes, it's encapsulation, relations between classes, inheritance and aggregation, Rule of 0/3/5, The Deathly Diamond of Death,  Standard Library Template. 
 
 ## 🧑‍💻 Notes
 All code was written as part of coursework in the [Faculty of Applied Sciences of Politehnica Bucharest](http://fsa.pub.ro/), and later cleaned up and commented for clarity.
