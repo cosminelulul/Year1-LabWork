@@ -14,4 +14,4 @@ The goal of this repo is to demonstrate my progress in programming fundamentals,
 - TBA
 
 ## 🧑‍💻 Notes
-All code was written as part of coursework in the [Faculty of Applied Sciences of Politehnica Bucharest]((http://fsa.pub.ro/), and later cleaned up and commented for clarity.
+All code was written as part of coursework in the [Faculty of Applied Sciences of Politehnica Bucharest](http://fsa.pub.ro/), and later cleaned up and commented for clarity.
